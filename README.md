@@ -75,8 +75,8 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👨‍💻 Author
 
-- GitHub: 
-- LinkedIn: 
+- GitHub: https://github.com/K3ury99 
+- LinkedIn: https://www.linkedin.com/in/keury03/
 
 - Pygame community for the excellent game development library
 - Contributors to the A* pathfinding algorithm
