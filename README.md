@@ -58,11 +58,11 @@ The AI-Powered-Snake-Game is an engaging Python project featuring two versions o
 
 ## 🎨 Customization
 
-### Normal Version
+### 🖇Normal Version
 - Press 1-3 to change snake color
 - Press 4-6 to change food color
 
-### AI Version
+### 🖇AI Version
 - Adjust game speed in the `run()` method
 
 ## 🤝 Contributing
