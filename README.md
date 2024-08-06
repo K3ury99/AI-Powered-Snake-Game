@@ -10,7 +10,7 @@ The AI-Powered-Snake-Game is an engaging Python project featuring two versions o
 ### This project contains two versions of the classic Snake game implemented in Python using Pygame:
 
 1. **Normal Version**: A traditional Snake game with manual controls.
-2. **AI Version**: An advanced version where the snake is controlled by an AI algorithm, making it more challenging and self-playing.
+2. **AI Version**: An advanced version where the snake is controlled by an AI algorithm, making it more challenging and self-playing. It has this design so that the snake finds the fastest and safest route, making the snake survive for as long as possible, making it very difficult for it to die.
 
 ## 🎮 Features
 
